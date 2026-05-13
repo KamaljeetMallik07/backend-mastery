@@ -1,15 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36623.8 d17.14
+VisualStudioVersion = 17.14.36623.8
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount", "BankAccount\BankAccount.csproj", "{151B4EF7-0D6D-4B57-89B3-735391EEE0E1}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "oop-problems", "oop-problems", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "design-patterns", "design-patterns", "{84D3C521-9D67-486F-93A9-3CB5057A1924}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "system-design", "system-design", "{EAFDABF5-0786-4AB9-A75B-FA91D9F82E6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount", "oop-problems\BankAccount\BankAccount.csproj", "{7A7D8410-237C-565F-D5D5-B79BA331605F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,16 +17,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{151B4EF7-0D6D-4B57-89B3-735391EEE0E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{151B4EF7-0D6D-4B57-89B3-735391EEE0E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{151B4EF7-0D6D-4B57-89B3-735391EEE0E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{151B4EF7-0D6D-4B57-89B3-735391EEE0E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A7D8410-237C-565F-D5D5-B79BA331605F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A7D8410-237C-565F-D5D5-B79BA331605F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A7D8410-237C-565F-D5D5-B79BA331605F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A7D8410-237C-565F-D5D5-B79BA331605F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{151B4EF7-0D6D-4B57-89B3-735391EEE0E1} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{7A7D8410-237C-565F-D5D5-B79BA331605F} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3811CE91-73B1-400E-8016-0695C115CC32}
